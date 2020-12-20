@@ -19,6 +19,9 @@ The data.ttarch2 is needed for the skl (skeleton) of his character, otherwise th
 ## STEP 2: Extracting the files.
 
 **NOTE:** You'll have to do this method twice if you are planning to use S2 character in S3 for example. Because we'll need both seasons' files to be extracted.
+For this step I'll be needing WDC_pc_WalkingDead202_data.ttarch2, WDC_pc_WalkingDead202_txmesh.ttarch2, WDC_pc_WalkingDead301_data.ttarch2, WDC_pc_WalkingDead301_txmesh.ttarch2
+But if you are planning to do otherwise, you can still follow those steps.
+
 
 **DATA:**
 You'll need to create a notepad and paste this, of course you have to edit it because I don't know where the game is in your computer. Don't forget to create a folder named data as well, copy it's location then paste it to inside of "C:\data". Don't delete the " though.
@@ -48,6 +51,7 @@ You'll need character skl file which can be found in data and meshes which can b
 For example I want Alvin to be Javier, right? Here's what you'll do:
 
 You need to get Alvin's skeleton file from any season 2 episode, to make it easier his skeleton name is: sk54_alvin
+
 Same goes for Javi, his skeleton name is: sk61_javier
 
 You have to rename sk54_alvin to sk61_javier. After that we'll move to txmesh.
