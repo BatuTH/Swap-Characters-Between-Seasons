@@ -20,7 +20,7 @@ And this is why I'm leaving a list of files you need to rename. It's the same if
 
 **Anichore**
 
-The files you have to rename: | The files you don't have to rename
+The files you have to rename: | The files you don't have to rename but need to copy and paste
 ------------ | -------------
 eyes_(direction) **FOR S1-S2** 
 sk54_idle **FOR S1-S2**
@@ -29,14 +29,14 @@ face_eyesClosed **FOR S3-S4** |
 
 **Data**
 
-The files you have to rename: | The files you don't have to rename
+The files you have to rename: | The files you don't have to rename but need to copy and paste
 ------------ | -------------
 .ptable **FOR EACH SEASON**| (CHARACTER), (CHARACTER-BODY).style **FOR EACH SEASON**
 .skl **FOR EACH SEASON**|
 
 **Txmesh**
 
-The files you have to rename: | The files you don't have to rename
+The files you have to rename: | The files you don't have to rename but need to copy and paste
 ------------ | -------------
 .d3dmesh **FOR EACH SEASON**| .d3dtx **FOR EACH SEASON**
 
