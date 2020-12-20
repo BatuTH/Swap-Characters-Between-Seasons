@@ -12,7 +12,7 @@ If you have the files then you are good to go for model swapping.
 **Where can I find them?** It's real simple, just go to game's folder and you'll see a folder named Archives there. 
 
 **Which files are necessary for model swapping?** If you just want to swap the characters and you don't care about facial animations then you'll need data.ttarch2 and txmesh.ttarch2.
-The data.ttarch2 is needed for the skl (skeleton) of his character, otherwise the character can looked bugged and the txmesh is for the character's meshes and textures.
+The data.ttarch2 is needed for the skl (skeleton) of his character, otherwise the character can look bugged and the txmesh is for the character's meshes and textures.
 
 **After finding the files, what do I do next?** And that's what the next step is for!
 
