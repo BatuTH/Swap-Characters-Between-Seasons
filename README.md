@@ -27,6 +27,7 @@ But if you are planning to do otherwise, you can still follow those steps.
 
 
 **DATA:**
+
 You'll need to create a notepad and paste this, of course you have to edit it because I don't know where the game is in your computer. Don't forget to create a folder named data as well, copy it's location then paste it to inside of "C:\data". Don't delete the " though.
 
 ```
@@ -37,6 +38,7 @@ Examples: WDC_pc_WalkingDead204_data.ttarch2, WDC_pc_WalkingDead305_data.ttarch2
 
 
 **TXMESH:**
+
 You'll do the same method as you did for Data. Just rename the data.ttarch2 to txmesh.ttarch2
 
 ```
