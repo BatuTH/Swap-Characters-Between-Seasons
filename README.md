@@ -20,6 +20,9 @@ The data.ttarch2 is needed for the skl (skeleton) of his character, otherwise th
 
 **NOTE:** You'll have to do this method twice if you are planning to use S2 character in S3 for example. Because we'll need both seasons' files to be extracted.
 For this step I'll be needing WDC_pc_WalkingDead202_data.ttarch2, WDC_pc_WalkingDead202_txmesh.ttarch2, WDC_pc_WalkingDead301_data.ttarch2, WDC_pc_WalkingDead301_txmesh.ttarch2
+
+**What do we need those for?** I'll teach you to replace Javier with Alvin as a test.
+
 But if you are planning to do otherwise, you can still follow those steps.
 
 
