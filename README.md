@@ -75,3 +75,6 @@ After you are done with renaming Javier's meshes, get Alvin's textures which are
 After you are done with renaming the files and got the textures, put them into Archives folder. Also! Don't forget to use the materials, since I replaced Javier with Alvin I'll need to go to "S1, S2, Michonne, S4 to S3" folder and copy the files and put them into Archives.
 
 Then open the game, to be sure go to character viewer choose A New Frontier (since I modded Javier) and if you see your character there then you did it! Now you can play as Alvin in The New Frontier.
+
+## What will the next part of the tutorial include?
+I'll tell you how to make their facial animations and mouth animations work, also another easy method to replace the characters but that is one of the buggiest methods and it might bug your game, it's optional though.
