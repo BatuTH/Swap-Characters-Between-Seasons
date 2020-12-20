@@ -8,6 +8,8 @@ First, you'll need the materials if you want to make S3 work in S4 for example o
 You'll also need [ttarch](http://aluigi.altervista.org/papers/ttarchext.zip) to extract the files from ttarch files.
 If you have the files then you are good to go for model swapping.
 
+**CURRENT PROBLEMS:** Season 3 sadly doesn't work with any other season together, but it can work with any season by itself. Like if you plan to have Javier in S1, you'll have to have S3 characters otherwise everything will look invisible.
+
 ## STEP 1: Locate the ttarch files you need.
 **Where can I find them?** It's real simple, just go to game's folder and you'll see a folder named Archives there. 
 
